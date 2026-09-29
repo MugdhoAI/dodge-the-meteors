@@ -35,7 +35,7 @@ This project demonstrates variables, conditionals, loops, keyboard input, collis
 
 The main project file is:
 
-Dodge the Meteors - Mugdho.sb3
+Dodge the Meteors: Mugdho.sb3
 
 Open the .sb3 file with the Scratch editor to play or modify the project.
 
